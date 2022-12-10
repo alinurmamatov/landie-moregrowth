@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/landie-moregrowth/static/css/main.97301f9c.css",
-    "main.js": "/landie-moregrowth/static/js/main.656aee2e.js",
+    "main.js": "/landie-moregrowth/static/js/main.ae88051a.js",
     "static/js/787.29c65c67.chunk.js": "/landie-moregrowth/static/js/787.29c65c67.chunk.js",
     "static/media/designer-main.png": "/landie-moregrowth/static/media/designer-main.b5c815e38e181b5f275d.png",
     "static/media/girl-mobile-img.png": "/landie-moregrowth/static/media/girl-mobile-img.8b97c403c213fedb4dfc.png",
@@ -10,11 +10,11 @@
     "static/media/rectangle.png": "/landie-moregrowth/static/media/rectangle.8ba2976d3376d4f2f499.png",
     "index.html": "/landie-moregrowth/index.html",
     "main.97301f9c.css.map": "/landie-moregrowth/static/css/main.97301f9c.css.map",
-    "main.656aee2e.js.map": "/landie-moregrowth/static/js/main.656aee2e.js.map",
+    "main.ae88051a.js.map": "/landie-moregrowth/static/js/main.ae88051a.js.map",
     "787.29c65c67.chunk.js.map": "/landie-moregrowth/static/js/787.29c65c67.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97301f9c.css",
-    "static/js/main.656aee2e.js"
+    "static/js/main.ae88051a.js"
   ]
 }
