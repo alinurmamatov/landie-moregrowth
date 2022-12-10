@@ -1,5 +1,5 @@
 export const appRoutes = {
-  home: "/",
-  about: "/about",
-  contact: "/contact",
+  home: "/landie-moregrowth/",
+  about: "/landie-moregrowth/about",
+  contact: "/landie-moregrowth/contact",
 };
